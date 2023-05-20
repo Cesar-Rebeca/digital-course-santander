@@ -11,4 +11,4 @@
 * log --oneline --decorate
 * checkout (nome da branch)
 
-
+vamos fazer uma troca no git local
